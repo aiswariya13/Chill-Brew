@@ -1,0 +1,2 @@
+# Chill Brew
+ "Chill Brew" – A minimalist and modern cold brew coffee website crafted with HTML and CSS. It features a sleek design, smooth navigation, and an inviting color palette that mirrors the refreshing essence of cold brew. Perfect for showcasing your brand's story, brewing process, and delicious products. Designed to provide an exceptional user experience with responsive layouts and aesthetic appeal.
